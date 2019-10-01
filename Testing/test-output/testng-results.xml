@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63" started-at="2019-06-12T08:09:44Z" finished-at="2019-06-12T08:09:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63" started-at="2019-06-12T08:09:44Z" finished-at="2019-06-12T08:09:44Z">
+      <class name="testNG_Programs.Annotation4">
+        <test-method status="PASS" signature="gmailLaunchAndLogIn()[pri:0, instance:testNG_Programs.Annotation4@528931cf]" name="gmailLaunchAndLogIn" is-config="true" duration-ms="0" started-at="2019-06-12T08:09:44Z" finished-at="2019-06-12T08:09:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gmailLaunchAndLogIn -->
+        <test-method status="PASS" signature="composeMail()[pri:0, instance:testNG_Programs.Annotation4@528931cf]" name="composeMail" duration-ms="15" started-at="2019-06-12T08:09:44Z" finished-at="2019-06-12T08:09:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- composeMail -->
+        <test-method status="PASS" signature="drafts()[pri:0, instance:testNG_Programs.Annotation4@528931cf]" name="drafts" duration-ms="0" started-at="2019-06-12T08:09:44Z" finished-at="2019-06-12T08:09:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drafts -->
+        <test-method status="PASS" signature="gmailLaunchAndLogIn()[pri:0, instance:testNG_Programs.Annotation4@528931cf]" name="gmailLaunchAndLogIn" is-config="true" duration-ms="0" started-at="2019-06-12T08:09:44Z" finished-at="2019-06-12T08:09:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gmailLaunchAndLogIn -->
+        <test-method status="PASS" signature="gmailApplicationClose()[pri:0, instance:testNG_Programs.Annotation4@528931cf]" name="gmailApplicationClose" is-config="true" duration-ms="0" started-at="2019-06-12T08:09:44Z" finished-at="2019-06-12T08:09:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gmailApplicationClose -->
+        <test-method status="PASS" signature="gmailApplicationClose()[pri:0, instance:testNG_Programs.Annotation4@528931cf]" name="gmailApplicationClose" is-config="true" duration-ms="0" started-at="2019-06-12T08:09:44Z" finished-at="2019-06-12T08:09:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gmailApplicationClose -->
+      </class> <!-- testNG_Programs.Annotation4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

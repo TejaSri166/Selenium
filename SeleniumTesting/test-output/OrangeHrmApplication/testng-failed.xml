@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [OrangeHrmApplication]">
+  <test thread-count="5" name="On Firefox(failed)">
+    <parameter name="Browser" value="firefox"/>
+    <classes>
+      <class name="com.grid.OrangeHrm_LogInTest">
+        <methods>
+          <include name="logIn" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.grid.OrangeHrm_LogInTest -->
+    </classes>
+  </test> <!-- On Firefox(failed) -->
+  <test thread-count="5" name="On Chrome(failed)">
+    <parameter name="Browser" value="Chrome"/>
+    <classes>
+      <class name="com.grid.OrangeHrm_LogInTest">
+        <methods>
+          <include name="logIn" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.grid.OrangeHrm_LogInTest -->
+    </classes>
+  </test> <!-- On Chrome(failed) -->
+</suite> <!-- Failed suite [OrangeHrmApplication] -->

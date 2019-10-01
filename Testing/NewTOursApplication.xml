@@ -1,0 +1,15 @@
+<suite name ="NewTours_Login">
+<test name="logIn">
+<classes>
+<class name ="dataDrivenApproach.NewTours_Login"/>
+</classes>
+</test>
+
+
+<test name="OrangeHRM_AddEmployee_TestNG">
+<classes>
+<class name ="dataDrivenApproach.OrangeHRM_AddEmployee_TestNG"/>
+</classes>
+</test>
+</suite>
+

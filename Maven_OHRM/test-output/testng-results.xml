@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23109" started-at="2019-06-24T11:44:54Z" finished-at="2019-06-24T11:45:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23109" started-at="2019-06-24T11:44:54Z" finished-at="2019-06-24T11:45:17Z">
+      <class name="com.Maven_OHRM.OHRM_AddEmployee">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Maven_OHRM.OHRM_AddEmployee@43738a82]" name="setUp" is-config="true" duration-ms="15278" started-at="2019-06-24T11:44:54Z" finished-at="2019-06-24T11:45:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addEmployee()[pri:0, instance:com.Maven_OHRM.OHRM_AddEmployee@43738a82]" name="addEmployee" duration-ms="7815" started-at="2019-06-24T11:45:09Z" finished-at="2019-06-24T11:45:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployee -->
+      </class> <!-- com.Maven_OHRM.OHRM_AddEmployee -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name ="OrangeHRM">
+	<test name ="HomePage">
+		<groups>
+			<run>
+				<include name ="smoke"/>
+				
+				
+			</run>
+		</groups>
+		<classes>
+			<class name="com.Krishna.TestNGGroups"/>
+				
+			</classes>
+		</test>
+</suite>

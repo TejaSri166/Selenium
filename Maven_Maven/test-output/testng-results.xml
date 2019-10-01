@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="66394" started-at="2019-06-25T04:32:50Z" finished-at="2019-06-25T04:33:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="66394" started-at="2019-06-25T04:32:50Z" finished-at="2019-06-25T04:33:56Z">
+      <class name="com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM@271053e1]" name="setUp" is-config="true" duration-ms="52772" started-at="2019-06-25T04:32:50Z" finished-at="2019-06-25T04:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM@271053e1]" name="login" duration-ms="12891" started-at="2019-06-25T04:33:43Z" finished-at="2019-06-25T04:33:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM@271053e1]" name="tearDown" is-config="true" duration-ms="703" started-at="2019-06-25T04:33:55Z" finished-at="2019-06-25T04:33:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

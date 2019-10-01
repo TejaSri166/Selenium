@@ -1,0 +1,21 @@
+2019-06-19 09:56:58,840 - Sample.class -INFO - Chrome is opened successfully
+2019-06-19 09:57:12,861 - Sample.class -INFO - Url is opened successfully
+2019-06-19 10:02:28,377 - com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM -INFO - Chrome is opened successfully
+2019-06-19 10:02:47,413 - com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM -INFO - Url is opened successfully
+2019-06-19 10:02:48,865 - com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM -INFO - UserName is entered successfully
+2019-06-19 10:03:23,235 - com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM -INFO - Chrome is opened successfully
+2019-06-19 10:03:34,933 - com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM -INFO - Url is opened successfully
+2019-06-19 10:03:36,357 - com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM -INFO - UserName is entered successfully
+2019-06-19 10:03:36,455 - com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM -INFO - Password is enetered successfully
+2019-06-19 10:03:41,231 - com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM -INFO - Login button is clicked
+2019-06-19 10:03:41,232 - com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM -INFO - the expected result is:Welcome Admin
+2019-06-19 10:03:41,290 - com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM -INFO - The Actual_result is:Welcome Admin
+2019-06-19 10:03:41,291 - com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM -INFO - LogIn is success_Pass
+2019-06-25 10:02:57,133 - com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM -INFO - Chrome is opened successfully
+2019-06-25 10:03:41,940 - com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM -INFO - Url is opened successfully
+2019-06-25 10:03:43,280 - com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM -INFO - UserName is entered successfully
+2019-06-25 10:03:43,381 - com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM -INFO - Password is enetered successfully
+2019-06-25 10:03:55,928 - com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM -INFO - Login button is clicked
+2019-06-25 10:03:55,929 - com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM -INFO - the expected result is:Welcome Admin
+2019-06-25 10:03:55,987 - com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM -INFO - The Actual_result is:Welcome Admin
+2019-06-25 10:03:55,988 - com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM -INFO - LogIn is success_Pass

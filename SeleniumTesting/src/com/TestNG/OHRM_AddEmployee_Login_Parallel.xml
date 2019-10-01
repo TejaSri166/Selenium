@@ -1,0 +1,15 @@
+
+<suite name ="OrangeHRM Application" parallel="tests">
+<test name ="login">
+<classes>
+<class name ="com.datadriven.OrangeHRM_AddEmployee_TestNG"/>
+</classes>
+</test>
+
+<test name ="logIn">
+<classes>
+<class name="com.KeywordDriven.NewTours_Login"/>
+
+</classes>
+</test>
+</suite>

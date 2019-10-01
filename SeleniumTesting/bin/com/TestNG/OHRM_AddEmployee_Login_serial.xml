@@ -1,0 +1,15 @@
+
+<suite name ="OHRM_Application">
+<test name ="login">
+<classes>
+<class name ="com.datadriven.OrangeHRM_AddEmployee_TestNG"/>
+</classes>
+</test>
+
+<test name ="OHRM_Login">
+<classes>
+<class name="com.datadriven.OHRM_Login"/>
+
+</classes>
+</test>
+</suite>

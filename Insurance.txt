@@ -1,0 +1,27 @@
+WEBSITE::::
+https://www.softwaretestinghelp.com/basics-of-insurance-domain-for-testers/#Conclusion
+
+INSURANCE:::
+
+The purpose of insurance is to provide protection against the risk of any financial loss.
+INSURED PERSON:::The person who is covering by the insurance policy or one who avails the benefitsof the policy.
+
+
+Policy: A written contract or an agreement between the insurance company and a policyholder. The policy document includes legal details/wordings about what is included in the coverage and what is excluded from the policy coverage.
+Premium: The price of an insurance policy.
+Claim: It is the Insurance benefit amount that is to be settled to the beneficiary as per the policy document.
+Intermediaries: Brokers, Agents etc.
+Commission: The amount to be paid by an insurance company to the agent who sold the policy.
+Beneficiary: The person who is entitled to get the policy benefits in case of unforeseen events.
+Rider: It is an additional benefit to the existing policy, which usually modifies the policy for additional coverage.
+In force: Insurance policy on which the premium is fully paid.
+Grace Period: It is the time period after the due date of the premium in which the policy remains in force.
+Lapse: It is the termination of the policy in case the premium amount is not being paid before the end of the grace period.
+Reinstatement: By paying the past due premium if any, lapsed policy is once again put into force by providing sufficient evidence as per the insurance company rule
+Deductible: It is the flat amount which an insured person needs to pay before the insurance company starts providing the policy benefits.
+Co-Insurance: After the deductible has been paid by an insured person, the insured person has to pay a specific percentage of the billing amount (let’s say 20%) only then the insurer or insurance company will pay the remaining 80% of the amount.
+Co-Payment: As per the policy agreement, the policyholder pays a specific fixed amount (let’s say $50) other than the deductible and co-insurance payment,
+Out-of-pocket maximum: This is the maximum amount required to be paid in a year by the policyholder for a deductible, co-insurance, and co-payment. Once this maximum amount is reached, the insurance company starts providing policy benefits.
+Third Party Administrator (TPA): It is an individual or firm hired by an employer to deal with claim handling, claims to process. TPA is not an insurer or a policyholder.
+Underwriter: Underwriter is a professional who analyses and classifies the risk for an insurance company. Based on this assessment the decision is made as to whether to accept or reject the application.
+Actuary: Actuary is a professional person who is appointed by an insurance company. Actuaries are highly skilled statisticians who evaluate all types of risk and financial impact of risks. Actuaries are specialist mathematicians who calculate the premium for an insurance company.

@@ -1,0 +1,21 @@
+[main] INFO Sample.class - Chrome is opened successfully
+[main] INFO Sample.class - Url is opened successfully
+[main] INFO com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM - Chrome is opened successfully
+[main] INFO com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM - Url is opened successfully
+[main] INFO com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM - UserName is entered successfully
+[main] INFO com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM - Chrome is opened successfully
+[main] INFO com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM - Url is opened successfully
+[main] INFO com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM - UserName is entered successfully
+[main] INFO com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM - Password is enetered successfully
+[main] INFO com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM - Login button is clicked
+[main] INFO com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM - the expected result is:Welcome Admin
+[main] INFO com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM - The Actual_result is:Welcome Admin
+[main] INFO com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM - LogIn is success_Pass
+[main] INFO com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM - Chrome is opened successfully
+[main] INFO com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM - Url is opened successfully
+[main] INFO com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM - UserName is entered successfully
+[main] INFO com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM - Password is enetered successfully
+[main] INFO com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM - Login button is clicked
+[main] INFO com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM - the expected result is:Welcome Admin
+[main] INFO com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM - The Actual_result is:Welcome Admin
+[main] INFO com.MavenTool.Maven_Maven.LoginFunctionality_OrangeHRM - LogIn is success_Pass
